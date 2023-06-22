@@ -76,7 +76,8 @@ rpm:
     - ripgrep
     - nerd-fonts
     - zoxide
-    - gdm
+    - lightdm
+    - lightdm-gtk
     - SwayNotificationCenter
     - rofi-wayland
     - polkit-gnome
